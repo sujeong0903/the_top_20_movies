@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/the_top_20_movies/static/css/main.81b3943c.chunk.css",
+    "main.js": "/the_top_20_movies/static/js/main.91744822.chunk.js",
+    "main.js.map": "/the_top_20_movies/static/js/main.91744822.chunk.js.map",
+    "runtime-main.js": "/the_top_20_movies/static/js/runtime-main.0b13c4ad.js",
+    "runtime-main.js.map": "/the_top_20_movies/static/js/runtime-main.0b13c4ad.js.map",
+    "static/js/2.810a661d.chunk.js": "/the_top_20_movies/static/js/2.810a661d.chunk.js",
+    "static/js/2.810a661d.chunk.js.map": "/the_top_20_movies/static/js/2.810a661d.chunk.js.map",
+    "index.html": "/the_top_20_movies/index.html",
+    "static/css/main.81b3943c.chunk.css.map": "/the_top_20_movies/static/css/main.81b3943c.chunk.css.map",
+    "static/js/2.810a661d.chunk.js.LICENSE.txt": "/the_top_20_movies/static/js/2.810a661d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b13c4ad.js",
+    "static/js/2.810a661d.chunk.js",
+    "static/css/main.81b3943c.chunk.css",
+    "static/js/main.91744822.chunk.js"
+  ]
+}
